@@ -1,0 +1,159 @@
+/* Inserta tu codigo aqui */
+.titulo h1 {
+	color: #1A2A52;
+	margin: 40px 0px;
+}
+.titulo a {
+	text-decoration: none;
+	color: #B9BABA;
+	padding: 0px 40px;
+}
+
+.baner {
+	background-image: url(../img/dance_1.jpg);
+	height: 500px;
+	margin-top: 30px;
+}
+.baner h2 {
+	color: #C3C6C5;
+	font-size: 80px;
+	padding: 25px 170px;
+	margin-bottom: 0px;
+}
+.baner p {
+	color: #CFD1D5;
+	width: 240px;
+	padding: 0px 170px;
+	margin-top: 0px;
+	margin-bottom: 40px;
+}
+.baner a {
+	text-decoration: none;
+	color: #CFD1D5;
+	padding: 10px 30px;
+	background-color: #030E1D;
+	margin-left: 170px;
+}
+.oferta {
+	height: 430px;
+	background-image: url(../img/textura_2.jpg);
+}
+.oferta p {
+	font-size: 25px;
+	padding: 60px 200px 5px 200px;
+	font-weight: bold;
+	color: #7F8683;
+	
+}
+.oferta img {
+	height:150px;
+}
+.oferta a {
+	background-color: #192951;
+	padding: 20px 100px;
+	border-radius: 5px;
+
+}
+.col-6.hombre {
+	border-top: 2px solid #192951;
+	border-bottom: 2px solid #192951;
+	height: 330px;
+	background-size: cover;
+	background-image: url(../img/instructor_4.jpg);
+	position: relative;
+}
+.col-6.mujer {
+	border-top: 2px solid #192951;
+	border-bottom: 2px solid #192951;
+	height: 330px;
+	background-size: cover;
+	background-image: url(../img/profesor_9.jpg);
+	position: relative;
+}
+.botonencima {
+	background-color: #192951;
+    padding: 25px 200px;
+    text-decoration: none;
+    position: absolute;
+    bottom: 0px;
+    left: -270px;
+}
+.lema {
+	background-image: url(../img/textura_2.jpg);
+	padding: 80px 0px;
+}
+.lemacursiva {
+	font-size: 50px;
+	font-style: italic;
+}
+.fondoazul {
+	background-color: #192951;
+	padding-top:40px;
+	height: 330px;
+}
+
+h3 {
+	margin-top: 50px;
+}
+
+.shoes {
+	background-repeat: no-repeat;
+	background-image: url(../img/shoes_1.jpg);
+	height: 500px;
+	background-position: right;
+	padding-top:50px;
+}
+input {
+	margin-top: 20px;
+	border: 2px solid #F1F0F0;
+	width: 500px;
+    height: 40px;
+    font-family: arial;
+    padding-left: 50px;
+}
+textarea {
+	margin-top: 20px;
+	border: 2px solid #F1F0F0;
+	width: 500px;
+    height: 150px;
+    font-family: arial;
+    margin-bottom: 50px;
+    padding-left: 50px;
+}
+.shoes a {
+	text-decoration: none;
+	color: white;
+	padding:10px 250px;
+	background-color: #192951;
+}
+.shoes h2 {
+	color: #192951;
+	font-weight: bold;
+}
+#name {
+	background-image: url(http://rexkirby.com/kirbyandson/images/name.svg);
+	background-size: 40px;
+	background-repeat: no-repeat;
+}
+#email {
+	background-image: url(
+http://rexkirby.com/kirbyandson/images/email.svg);
+	background-size: 40px;
+	background-repeat: no-repeat;
+}
+#mensaje {
+		background-image: url(
+
+http://rexkirby.com/kirbyandson/images/comment.svg);
+	background-size: 40px;
+	background-repeat: no-repeat;
+}
+.piepagina {
+	background-color: #192951;
+	height: 60px;
+}
+.piepagina p {
+	color: white;
+	padding: 20px 30px;
+}
+

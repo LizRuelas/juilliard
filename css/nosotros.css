@@ -1,0 +1,127 @@
+/* Inserta tu codigo aqui */
+.titulo h1 {
+	color: #1A2A52;
+	margin: 40px 0px;
+}
+.titulo a {
+	text-decoration: none;
+	color: #B9BABA;
+	padding: 0px 40px;
+}
+.baner {
+	background-image: url(../img/dance_7.jpg);
+	height: 130px;
+	margin-top: 30px;
+	padding: 160px 250px;
+	background-size: cover;
+}
+.transparente {
+	margin: 0 auto;    
+    width: 50%;
+    padding:40px;
+    background-color: rgba(0,0,0,0.5);
+}
+.fondopilar {
+	background-image: url(../img/cubes.png);
+	padding: 20px;
+}
+.pilares {
+	color: gray;
+	padding: 40px;
+}
+.pilares h2 {
+	border-bottom:2px solid gray;
+	padding: 20px;
+	margin-bottom: 15px;
+}
+
+.instructores {
+	padding: 20px;
+}
+.instructores img {
+	max-width: 100%;
+}
+.instructores h1 {
+	font-weight: bold;
+	font-size: 30px;
+}
+.filafoto1 , .filafoto2 {
+	margin-bottom: 60px;
+}
+.fondofrase {
+	background-image: url(../img/cubes.png);
+	padding: 100px;
+}
+.fondofrase p {
+	font-size: 50px;
+	font-style: italic; 
+}
+.shoes {
+	background-repeat: no-repeat;
+	background-image: url(../img/shoes_1.jpg);
+	height: 500px;
+	background-position: right;
+	padding-top:50px;
+}
+input {
+	margin-top: 20px;
+	border: 2px solid #F1F0F0;
+	width: 500px;
+    height: 40px;
+    font-family: arial;
+    padding-left: 50px;
+}
+textarea {
+	margin-top: 20px;
+	border: 2px solid #F1F0F0;
+	width: 500px;
+    height: 150px;
+    font-family: arial;
+    margin-bottom: 50px;
+    padding-left: 50px;
+}
+.shoes a {
+	text-decoration: none;
+	color: white;
+	padding:10px 250px;
+	background-color: #192951;
+}
+.shoes h2 {
+	color: #192951;
+}
+#name {
+	background-image: url(http://rexkirby.com/kirbyandson/images/name.svg);
+	background-size: 40px;
+	background-repeat: no-repeat;
+}
+#email {
+	background-image: url(
+http://rexkirby.com/kirbyandson/images/email.svg);
+	background-size: 40px;
+	background-repeat: no-repeat;
+}
+#mensaje {
+		background-image: url(
+
+http://rexkirby.com/kirbyandson/images/comment.svg);
+	background-size: 40px;
+	background-repeat: no-repeat;
+}
+.piepagina {
+	background-color: #192951;
+	height: 60px;
+}
+.piepagina p {
+	color: white;
+	padding: 20px 30px;
+}
+
+
+.h-200 {
+	height: 200px;
+	overflow: hidden;
+}
+
+.p-14 {
+	padding: 14px;
+}

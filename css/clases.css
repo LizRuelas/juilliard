@@ -1,0 +1,105 @@
+/* Inserta tu codigo aqui */
+.titulo h1 {
+	color: #1A2A52;
+	margin: 40px 0px;
+}
+.titulo a {
+	text-decoration: none;
+	color: #B9BABA;
+	padding: 0px 40px;
+}
+.fondoclases {
+	background-color: rgb(245,243,246);
+	margin-top: 30px;
+}
+.fondo1 {
+	background-image: url(../img/dance_12.jpg);
+
+}
+.fondo2 {
+	background-image: url(../img/breakdance.jpg);
+}
+.fondo3 {
+	background-image: url(../img/lirical-jazz.jpg);	
+}
+.fondo4 {
+	background-image: url(../img/arabe.jpg);
+}
+.fondo5 {
+	background-image: url(../img/little.jpg);
+}
+.fondo6 {
+	background-image: url(../img/yoga.jpg);
+}
+.detalles {
+	background-size: 350px;
+	background-repeat: no-repeat;
+	height: 280px;
+	padding-top: 150px;
+}
+.transparente {
+	margin-left: 20px;
+	width: 55%;
+    background-color: rgba(0,0,0,0.5);
+    padding: 50px;
+}
+.shoes {
+	background-repeat: no-repeat;
+	background-image: url(../img/shoes_1.jpg);
+	height: 500px;
+	background-position: right;
+	padding-top:50px;
+}
+input {
+	margin-top: 20px;
+	border: 2px solid #F1F0F0;
+	width: 500px;
+    height: 40px;
+    font-family: arial;
+    padding-left: 50px;
+}
+textarea {
+	margin-top: 20px;
+	border: 2px solid #F1F0F0;
+	width: 500px;
+    height: 150px;
+    font-family: arial;
+    margin-bottom: 50px;
+    padding-left: 50px;
+}
+.shoes a {
+	text-decoration: none;
+	color: white;
+	padding:10px 250px;
+	background-color: #192951;
+}
+.shoes h2 {
+	color: #192951;
+	font-weight: bold;
+}
+#name {
+	background-image: url(http://rexkirby.com/kirbyandson/images/name.svg);
+	background-size: 40px;
+	background-repeat: no-repeat;
+}
+#email {
+	background-image: url(
+http://rexkirby.com/kirbyandson/images/email.svg);
+	background-size: 40px;
+	background-repeat: no-repeat;
+}
+#mensaje {
+		background-image: url(
+
+http://rexkirby.com/kirbyandson/images/comment.svg);
+	background-size: 40px;
+	background-repeat: no-repeat;
+}
+.piepagina {
+	background-color: #192951;
+	height: 60px;
+}
+.piepagina p {
+	color: white;
+	padding: 20px 30px;
+}
